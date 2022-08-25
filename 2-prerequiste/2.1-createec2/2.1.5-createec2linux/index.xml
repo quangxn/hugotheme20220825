@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Create Public instance on My New Hugo Site</title>
-    <link>http://example.org/2-prerequiste/2.1-createec2/2.1.5-createec2linux/</link>
-    <description>Recent content in Create Public instance on My New Hugo Site</description>
+    <title>Create Public instance on How to use Hugotheme Learn</title>
+    <link>https://quangxn.github.io/hugotheme20220825/2-prerequiste/2.1-createec2/2.1.5-createec2linux/</link>
+    <description>Recent content in Create Public instance on How to use Hugotheme Learn</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/2-prerequiste/2.1-createec2/2.1.5-createec2linux/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://quangxn.github.io/hugotheme20220825/2-prerequiste/2.1-createec2/2.1.5-createec2linux/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

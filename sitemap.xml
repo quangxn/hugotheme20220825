@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/</loc>
     <lastmod>1970-01-01T08:33:42+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/3-accessibilitytoinstances/3.1-public-instance/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/3-accessibilitytoinstances/3.1-public-instance/</loc>
   </url><url>
-    <loc>http://example.org/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.1-endpointssm/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.1-endpointssm/</loc>
   </url><url>
-    <loc>http://example.org/2-prerequiste/2.1-createec2/2.1.1-createvpc/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/2-prerequiste/2.1-createec2/2.1.1-createvpc/</loc>
   </url><url>
-    <loc>http://example.org/3-accessibilitytoinstances/3.2-private-instance/3.2.1-enablevpcdns/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/3-accessibilitytoinstances/3.2-private-instance/3.2.1-enablevpcdns/</loc>
   </url><url>
-    <loc>http://example.org/1-introduce/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/1-introduce/</loc>
   </url><url>
-    <loc>http://example.org/2-prerequiste/2.1-createec2/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/2-prerequiste/2.1-createec2/</loc>
   </url><url>
-    <loc>http://example.org/4-s3log/4.1-updateiamrole/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/4-s3log/4.1-updateiamrole/</loc>
   </url><url>
-    <loc>http://example.org/3-accessibilitytoinstances/3.2-private-instance/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/3-accessibilitytoinstances/3.2-private-instance/</loc>
   </url><url>
-    <loc>http://example.org/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.2-endpointssmmessages/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.2-endpointssmmessages/</loc>
   </url><url>
-    <loc>http://example.org/2-prerequiste/2.2-createiamrole/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/2-prerequiste/2.2-createiamrole/</loc>
   </url><url>
-    <loc>http://example.org/2-prerequiste/2.1-createec2/2.1.2-createpublicsubnet/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/2-prerequiste/2.1-createec2/2.1.2-createpublicsubnet/</loc>
   </url><url>
-    <loc>http://example.org/4-s3log/4.2-creates3bucket/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/4-s3log/4.2-creates3bucket/</loc>
   </url><url>
-    <loc>http://example.org/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/</loc>
   </url><url>
-    <loc>http://example.org/2-prerequiste/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/2-prerequiste/</loc>
   </url><url>
-    <loc>http://example.org/3-accessibilitytoinstances/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/3-accessibilitytoinstances/</loc>
   </url><url>
-    <loc>http://example.org/3-accessibilitytoinstances/3.2-private-instance/3.2.3-connectec2/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/3-accessibilitytoinstances/3.2-private-instance/3.2.3-connectec2/</loc>
   </url><url>
-    <loc>http://example.org/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.3-endpointec2messages/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.3-endpointec2messages/</loc>
   </url><url>
-    <loc>http://example.org/2-prerequiste/2.1-createec2/2.1.3-createprivatesubnet/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/2-prerequiste/2.1-createec2/2.1.3-createprivatesubnet/</loc>
   </url><url>
-    <loc>http://example.org/4-s3log/4.3-creategwes3/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/4-s3log/4.3-creategwes3/</loc>
   </url><url>
-    <loc>http://example.org/2-prerequiste/2.1-createec2/2.1.4-createsecgroup/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/2-prerequiste/2.1-createec2/2.1.4-createsecgroup/</loc>
   </url><url>
-    <loc>http://example.org/4-s3log/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/4-s3log/</loc>
   </url><url>
-    <loc>http://example.org/4-s3log/4.4-configsessionlogs/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/4-s3log/4.4-configsessionlogs/</loc>
   </url><url>
-    <loc>http://example.org/2-prerequiste/2.1-createec2/2.1.5-createec2linux/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/2-prerequiste/2.1-createec2/2.1.5-createec2linux/</loc>
   </url><url>
-    <loc>http://example.org/5-portfwd/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/5-portfwd/</loc>
   </url><url>
-    <loc>http://example.org/6-cleanup/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/6-cleanup/</loc>
     <lastmod>1970-01-01T08:33:42+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/2-prerequiste/2.1-createec2/2.1.6-createec2windows/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/2-prerequiste/2.1-createec2/2.1.6-createec2windows/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://quangxn.github.io/hugotheme20220825/tags/</loc>
   </url>
 </urlset>
